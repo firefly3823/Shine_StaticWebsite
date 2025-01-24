@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.landing_container{
+    width: 100%;
+    height: fit-content;
+    position: relative;
+}
+
+.header_image{
+    width: 100%;
+    object-fit: covers;
+}
+.shine_logo{
+    position: absolute;
+    top:97px;
+    margin-left: 24px;
+    z-index: 1;
+}
+.shine_logo>img{
+    width: 97px;
+}
+.nav_bar{
+    right: 97px;
+    display: flex;
+    flex-direction: row;
+}
+.nav_bar a{
+    padding: 2rem;
+    text-decoration: none;
+    /* color: white; */
+    z-index: 2;
+    font-size: 20px;
+    transition: .3sec linear ;
+}
+.nav_bar a:hover{
+    text-decoration-line: underline;
+}
