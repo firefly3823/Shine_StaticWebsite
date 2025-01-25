@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Poppins, Work Sans, sans-serif;
+    font-weight: 600;
     color: #442f3a;
 
 }
@@ -61,7 +62,7 @@
     display: flex;
     flex-direction: column;
     font-size: 20px;
-    z-index: 0;
+    z-index: 3;
     /* align-items: center; */
 }
 .landingPageText h1{
@@ -77,3 +78,9 @@
     margin-top: 2rem;
 }
 
+.second_container{
+    height: 74vh;
+    display: flex;
+    justify-content: center;
+    padding: 5rem;
+}
