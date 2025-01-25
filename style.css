@@ -79,7 +79,7 @@
 }
 
 .second_container{
-    height: 74vh;
+    height: fit-content;
     display: flex;
     justify-content: center;
     padding: 5rem;
