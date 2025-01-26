@@ -101,3 +101,21 @@
     font-size: 20px;
     font-weight: 500;
 }
+
+#third_container{
+    background-image: url("./assets/library-section-blob.4fcdf0b4.svg");
+    background-size: 30%;
+    height: fit-content;
+    background-repeat: no-repeat;
+    /* height: 100vh; */
+    background-color:#347371;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+}
+
+#third_container> h1{
+    color:white;
+    text-align: center;
+    margin: 5rem;
+}
