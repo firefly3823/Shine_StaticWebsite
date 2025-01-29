@@ -58,7 +58,7 @@
     font-family: Poppins;
     top: 0rem;
     width: 25rem;
-    margin: 15rem 0 0 5rem;
+    margin: 12rem 0 0 5rem;
     display: flex;
     flex-direction: column;
     font-size: 20px;
@@ -116,5 +116,21 @@
 #third_container> h1{
     color:white;
     text-align: center;
-    margin: 5rem;
+    margin: 5rem  auto 0;
+    position: relative;
+}
+#third_container>img{
+   align-self:flex-end;
+}
+.card_container{
+    display: flex;
+    padding: 2rem;
+    justify-content: space-evenly;
+    overflow-x: scroll;
+}
+.card{
+    padding: 1rem;
+    background-color: white;
+    margin: 5px;
+    border-radius: 10px;
 }
