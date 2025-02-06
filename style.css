@@ -179,3 +179,23 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.teacher_details_card{
+    width: 50vw;
+    margin: auto;
+
+}
+
+
+.teachers-photos{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20%;
+}
+
+.photos_items img{
+    width: auto;
+}
+.photos_items{
+    text-align: center;
+    
+}
