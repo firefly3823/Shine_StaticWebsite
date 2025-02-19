@@ -181,7 +181,7 @@
 .teachers-container{
     width: 100%;
     height:80vh;
-    background-image: url("/assets/expert-section-bg-image.0e1790a9.jpg");
+    background-image: url("./assets/expert-section-bg-image.0e1790a9.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
