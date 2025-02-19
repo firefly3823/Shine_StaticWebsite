@@ -225,3 +225,17 @@
     width: 100%;
     background-color: #f8eed8;
 }
+.lectures_items>p{
+    font-size: 12px;
+    color: gray;
+}
+.lectures_items>img{
+    width: 11rem;
+}
+.fifth_container{
+    background-image: url("./assets/social-proof-section-blob.d48a49f1.svg");
+    background-size: 20%;
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-color: #4d908f;
+}
