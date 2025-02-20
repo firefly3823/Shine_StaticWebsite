@@ -239,3 +239,23 @@
     background-repeat: no-repeat;
     background-color: #4d908f;
 }
+.comments_container{
+    text-align: center;
+    width: 40vw;
+    margin: auto;
+    padding: 2rem;
+}
+.comments_section{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.comments_section>p{
+    padding: 2rem;
+    font-size: 14px;
+    font-weight: 550;
+    text-align: justify;
+}
+.comments_container> h2, p{
+    color: white;
+}
