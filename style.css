@@ -266,3 +266,29 @@
     background-size: cover;
     background-color: #f8eed8;
 }
+.inner_sixth_container{
+    width: 28vw;
+    margin: auto;
+    text-align: center;
+    padding: 2rem;
+}
+.inner_sixth_container h1,p {
+    padding: 1rem;
+}
+.learn_more_button{
+    display: inline-block;
+    width: 10rem;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 10px;
+    background-color: #f7ca5d;
+    border-radius: 20px;
+    font-size: 12px;
+}
+.learn_more_button:hover{
+    background-color: #e4a42c;
+}
+.learn_more_image{
+    display: block;
+    padding-top: 2rem;
+}
