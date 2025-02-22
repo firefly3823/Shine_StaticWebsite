@@ -258,3 +258,11 @@
 .comments_cont h2{
     color: white;
 }
+.sixth_container{
+    width: 100%;
+    height: 85vh;
+    background-image: url("./assets/shine-founders-background-blob.9bb9c014.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #f8eed8;
+}
