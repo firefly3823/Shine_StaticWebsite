@@ -292,3 +292,12 @@
     display: block;
     padding-top: 2rem;
 }
+footer{
+    height: 60vh;
+}
+.followUs{
+    display: block;
+}
+.followUsLink{
+    padding: 10px 10px 10px 0;
+}
