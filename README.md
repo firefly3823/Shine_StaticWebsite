@@ -4,8 +4,8 @@ Welcome to the Shine website! This website is designed to provide daily mental w
 
 ## Table of Contents
 - [overview](#overview)
-- [Technologies used](#Technologies)
-- [Preview](#Technologies)
+- [Technologies used](#technologies)
+- [Preview](#preview)
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
