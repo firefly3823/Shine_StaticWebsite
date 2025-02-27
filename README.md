@@ -4,7 +4,7 @@ Welcome to the Shine website! This website is designed to provide daily mental w
 
 ## Table of Contents
 - [overview](#overview)
-- [Technologies used](#technologies)
+- [Technologies used](#technologiesused)
 - [Preview](#preview)
 - [Introduction](#introduction)
 - [Features](#features)
@@ -22,7 +22,8 @@ This is a static website built using HTML and CSS. It serves as a simple and lig
 - CSS3
 
 ## Preview
-    - [View](https://firefly3823.github.io/Shine_StaticWebsite/)
+
+- [Live Preview](https://firefly3823.github.io/Shine_StaticWebsite/)
 
 ## Introduction
 
